@@ -57,3 +57,4 @@ gem 'devise', '~> 4.2'
 gem 'cancan' # or cancancan
 gem 'draper'
 gem 'pundit'
+gem 'active_skin'
